@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Panci stainless">
+  <rect width="400" height="300" fill="#e3edf2"/>
+  <ellipse cx="200" cy="264" rx="125" ry="12" fill="#c5d4dc"/>
+  <rect x="56" y="152" width="46" height="16" rx="8" fill="#43515c"/>
+  <rect x="298" y="152" width="46" height="16" rx="8" fill="#43515c"/>
+  <path d="M90 134 H310 V230 Q310 260 280 260 H120 Q90 260 90 230 Z" fill="#b4c4cf"/>
+  <path d="M90 134 H150 V260 H120 Q90 260 90 230 Z" fill="#d6e1e8"/>
+  <path d="M84 130 Q200 62 316 130 Z" fill="#9db0bc"/>
+  <path d="M84 130 Q140 92 190 82 Q130 96 100 130 Z" fill="#c4d3dc"/>
+  <rect x="78" y="126" width="244" height="12" rx="6" fill="#7b909e"/>
+  <rect x="196" y="76" width="8" height="18" fill="#43515c"/>
+  <circle cx="200" cy="74" r="10" fill="#43515c"/>
+</svg>

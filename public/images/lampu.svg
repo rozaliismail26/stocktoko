@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Lampu LED 12 watt">
+  <rect width="400" height="300" fill="#e3edf2"/>
+  <circle cx="200" cy="124" r="104" fill="#ffe27a" opacity="0.28"/>
+  <circle cx="200" cy="124" r="78" fill="#ffe27a" opacity="0.3"/>
+  <circle cx="200" cy="118" r="60" fill="#ffd84a"/>
+  <path d="M166 160 Q172 190 172 200 H228 Q228 190 234 160 Z" fill="#ffd84a"/>
+  <path d="M158 100 Q162 70 190 62" fill="none" stroke="#fff3bf" stroke-width="8" stroke-linecap="round"/>
+  <path d="M178 128 L190 106 L200 128 L210 106 L222 128" fill="none" stroke="#c48a00" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="170" y="200" width="60" height="12" rx="3" fill="#8b99a4"/>
+  <rect x="174" y="214" width="52" height="12" rx="3" fill="#74828d"/>
+  <rect x="180" y="228" width="40" height="12" rx="3" fill="#8b99a4"/>
+  <path d="M184 242 H216 Q214 256 200 258 Q186 256 184 242 Z" fill="#56646e"/>
+</svg>

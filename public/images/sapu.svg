@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Sapu lantai ijuk">
+  <rect width="400" height="300" fill="#e3edf2"/>
+  <ellipse cx="200" cy="268" rx="90" ry="9" fill="#c5d4dc"/>
+  <rect x="192" y="26" width="16" height="160" rx="8" fill="#a8743c"/>
+  <circle cx="200" cy="42" r="4" fill="#e3edf2"/>
+  <path d="M148 184 H252 L282 266 H118 Z" fill="#d6a64f"/>
+  <g stroke="#b3822f" stroke-width="3" stroke-linecap="round">
+    <line x1="150" y1="200" x2="132" y2="266"/>
+    <line x1="170" y1="200" x2="160" y2="266"/>
+    <line x1="190" y1="200" x2="188" y2="266"/>
+    <line x1="210" y1="200" x2="212" y2="266"/>
+    <line x1="230" y1="200" x2="240" y2="266"/>
+    <line x1="250" y1="200" x2="268" y2="266"/>
+  </g>
+  <rect x="146" y="176" width="108" height="16" rx="5" fill="#b3452c"/>
+</svg>

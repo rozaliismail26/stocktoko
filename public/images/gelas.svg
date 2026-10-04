@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Set gelas kaca">
+  <rect width="400" height="300" fill="#e3edf2"/>
+  <ellipse cx="200" cy="262" rx="140" ry="11" fill="#c5d4dc"/>
+  <g stroke="#6aa5bd" stroke-width="3" stroke-linejoin="round">
+    <path d="M88 124 H152 L144 252 H96 Z" fill="#cde8f2" fill-opacity="0.75"/>
+    <path d="M248 124 H312 L304 252 H256 Z" fill="#cde8f2" fill-opacity="0.75"/>
+    <path d="M168 100 H232 L224 252 H176 Z" fill="#cde8f2" fill-opacity="0.85"/>
+  </g>
+  <path d="M91 166 H149 L144 252 H96 Z" fill="#8cc9e0" opacity="0.85"/>
+  <path d="M251 166 H309 L304 252 H256 Z" fill="#8cc9e0" opacity="0.85"/>
+  <path d="M171 146 H229 L224 252 H176 Z" fill="#8cc9e0" opacity="0.9"/>
+  <path d="M104 132 L110 236" stroke="#ffffff" stroke-width="5" stroke-linecap="round" opacity="0.7"/>
+  <path d="M184 108 L190 232" stroke="#ffffff" stroke-width="5" stroke-linecap="round" opacity="0.7"/>
+  <path d="M264 132 L270 236" stroke="#ffffff" stroke-width="5" stroke-linecap="round" opacity="0.7"/>
+</svg>

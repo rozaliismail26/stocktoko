@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Ember plastik">
+  <rect width="400" height="300" fill="#e3edf2"/>
+  <ellipse cx="200" cy="266" rx="110" ry="11" fill="#c5d4dc"/>
+  <path d="M116 120 Q200 8 284 120" fill="none" stroke="#56646e" stroke-width="7" stroke-linecap="round"/>
+  <path d="M108 118 H292 L272 250 Q270 264 256 264 H144 Q130 264 128 250 Z" fill="#1f86b8"/>
+  <path d="M108 118 H150 L158 264 H144 Q130 264 128 250 Z" fill="#3aa0d2"/>
+  <rect x="100" y="106" width="200" height="18" rx="9" fill="#17688f"/>
+  <rect x="146" y="164" width="108" height="40" rx="8" fill="#ffffff" opacity="0.88"/>
+  <rect x="160" y="177" width="80" height="6" rx="3" fill="#1f86b8"/>
+  <rect x="160" y="189" width="52" height="6" rx="3" fill="#9cc9df"/>
+</svg>
