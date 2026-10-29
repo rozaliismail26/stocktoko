@@ -12,7 +12,12 @@ app.use(express.json());
 
 // Cek cepat apakah aplikasi hidup
 app.get('/health', (req, res) => res.json({ ok: true }));
-
+// ===== UJI stderr.log (HAPUS setelah selesai belajar) =====
+app.get('/uji/stderr', (req, res) => {
+  process.stderr.write('UJI-STDERR: ditulis langsung ke process.stderr\n');
+  res.send('process.stderr.write dijalankan. Cek stderr.log');
+});
+// ===== akhir UJI =====
 app.use('/api', apiRouter);
 
 // Sajikan frontend React hasil `npm run build`
