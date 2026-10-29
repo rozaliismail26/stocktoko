@@ -17,6 +17,14 @@ app.get('/uji/stderr', (req, res) => {
   process.stderr.write('UJI-STDERR: ditulis langsung ke process.stderr\n');
   res.send('process.stderr.write dijalankan. Cek stderr.log');
 });
+
+app.get('/uji/crash', (req, res) => {
+  res.send('Aplikasi akan crash sekarang...');
+  setTimeout(() => {
+    throw new Error('UJI-CRASH: uncaught exception sengaja');
+  }, 100);
+});
+
 // ===== akhir UJI =====
 app.use('/api', apiRouter);
 
